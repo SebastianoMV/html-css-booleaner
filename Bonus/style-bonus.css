@@ -1,0 +1,97 @@
+body{
+  margin: auto;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+
+}
+
+main{
+  margin: 80px;
+}
+
+footer{
+  margin: 80px;
+}
+
+h1{
+  margin-bottom: 2px;
+}
+
+.banner-top{
+  background-color: #c74eff;
+ background-image: url(/img/pattern.png);
+  background-size: 35%;
+}
+
+
+
+.gray{
+  color:gray;
+}
+
+.blue{
+  color: #c74eff;
+}
+
+.lil{
+  font-size: 0.7rem;
+  margin-top:1px;
+  margin-bottom: 20px;
+}
+
+
+.marg{
+  margin-bottom: 30px;
+
+}
+
+.evid{
+  background-color: yellow;
+}
+
+.tab{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.whiteb{
+  color: white;
+  font-size: large;
+}
+
+.bg-blue{
+  background-color: #c74eff;
+  text-transform: strong;
+}
+
+.bg-lightblue{
+  background-color: #f8b9fd;
+}
+
+.wdt-tab{
+  width: 50%;
+}
+
+.imglink{
+  width: 200px;
+  height: 120px;
+  background-image: url();
+  margin-top: 5px;
+  background-size: contain;
+}
+.link1{
+  background-image: url(/img/monitor.jpg);
+}
+
+.link2{
+  background-image: url(/img/graph.jpg);
+  
+}
+
+#logo1{
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
