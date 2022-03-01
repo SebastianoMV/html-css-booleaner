@@ -3,15 +3,8 @@ body{
   padding: 0;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-header{
 
-}
-
-main{
-  margin: 5px;
-}
-
-footer{
+.margine{
   margin: 5px;
 }
 
@@ -45,7 +38,10 @@ h1{
 
 .marg{
   margin-bottom: 30px;
+}
 
+ul {     
+  padding-left: 15px;        
 }
 
 .evid{
@@ -78,16 +74,15 @@ h1{
 .imglink{
   width: 200px;
   height: 120px;
-  background-image: url();
   margin-top: 5px;
   background-size: contain;
 }
-.link1{
-  background-image: url(/img/monitor.jpg);
+#link1{
+  background-image: url(../img/monitor.jpg);
 }
 
-.link2{
-  background-image: url(/img/graph.jpg);
+#link2{
+  background-image: url(../img/graph.jpg);
   
 }
 
